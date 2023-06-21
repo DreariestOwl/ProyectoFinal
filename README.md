@@ -10,7 +10,7 @@ A continuación se muestra una gráfica que ilustra el proceso de compresión de
 
 ## Instalación
 1. Clona este repositorio en tu máquina local.
-2. Asegúrate de tener Java JDK instalado en tu sistema.
+2. Asegúrate de tener Java JDK 19 instalado en tu sistema.
 3. Compila el código fuente utilizando el siguiente comando:
    javac HuffmanCompression.java
 
