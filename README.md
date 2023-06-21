@@ -18,6 +18,10 @@ A continuación se muestra una gráfica que ilustra el proceso de compresión de
 1. Coloca el archivo de texto que deseas comprimir en el directorio del proyecto y asegúrate de que se llame `input.txt`.
 2. Ejecuta el programa utilizando el siguiente comando:
    java HuffmanCompression
-3. El programa generará un archivo codificado llamado `encoded.bin` y un archivo decodificado llamado `decoded.txt`.
+3. El programa generará un archivo codificado llamado `encoded.txt` y un archivo decodificado llamado `decoded.txt`.
 4. Puedes modificar el archivo `HuffmanCompression.java` para personalizar la ubicación y los nombres de los archivos de entrada y salida según tus necesidades.
+
+# Autores 
+Victor Manuel Osorio
+Santiago Medina Varon
 
