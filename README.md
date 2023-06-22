@@ -3,6 +3,8 @@
 ## Resumen del proyecto
 Este proyecto implementa un algoritmo de compresión de datos utilizando el algoritmo de Huffman. El algoritmo de Huffman es una técnica de compresión sin pérdida que asigna códigos de longitud variable a los diferentes símbolos de entrada, de manera que los símbolos más frecuentes tienen códigos más cortos y los símbolos menos frecuentes tienen códigos más largos. Esto permite reducir el tamaño del archivo sin perder información.
 
+video explicacion(https://drive.google.com/file/d/1DloDOdvOU9XvYP-upmvF-WBMo-YtaBc1/view?usp=drive_link)
+
 ## Proceso de compresión de Huffman
 A continuación se muestra una gráfica que ilustra el proceso de compresión de Huffman:
 
